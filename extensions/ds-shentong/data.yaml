@@ -1,0 +1,7 @@
+name: 神通 Gauss 数据源插件
+title: V2 神通 Gauss 数据源插件
+description: 基于神通 Gauss 开发，推荐使用 DataEase v2.10.23 及以上版本
+tags:
+  - 数据源插件
+additionalProperties:
+  enterprise: true
